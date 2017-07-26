@@ -1,0 +1,10 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/__pycache__/
+/_eric6project/
+/build/
+/dist/
+/resource/
+
